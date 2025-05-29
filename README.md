@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm NasAzzam
+# 👋 Hi there, I'm Nas
 
 ![NasAzzam Handwriting](NasAzzamHandwritingAnimatedDark.svg)
 
 > A research assistant passionate about AI, multi-modal systems, and real-world vision-language applications.
 
-🔗 [Visit My Website](https://nasazzam.github.io)
+🔗 [Website](https://nasazzam.github.io) , [Email](mailto:nasazzam@cau.ac.kr)
 
 ---
 
@@ -18,27 +18,22 @@ I'm a research assistant delving into the realms of artificial intelligence, foc
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️🧰  TECH & TOOLKIT
 
-### Languages
+| Languages | Frameworks & Libraries | Tools & Services |
+|---|---|---|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EF4035?logo=pytorch&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6F61?logo=huggingface&logoColor=white) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
+| | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
-- Python
-- JavaScript
-- C++
+---
 
-### Frameworks & Libraries
+## 📊 GitHub Stats
 
-- TensorFlow
-- PyTorch
-- OpenCV
-- Hugging Face Transformers
+![NasAzzam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasAzzam&show_icons=true&theme=radical)
 
-### Tools
-
-- Git & GitHub
-- Docker
-- Jupyter Notebooks
-
+---
 ---
 
 ## 📈 GitHub Stats
@@ -46,27 +41,3 @@ I'm a research assistant delving into the realms of artificial intelligence, foc
 ![NasAzzam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasAzzam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
-
-## 🌱 Current Focus
-
-I'm currently working on:
-
-- Enhancing vision-language models for improved accuracy.
-- Developing tools for better multi-modal data integration.
-- Publishing research findings and contributing to open-source projects.
-
----
-
-## 📬 Let's Connect
-
-Feel free to reach out to me via:
-
-- [LinkedIn](https://www.linkedin.com/in/nasazzam)
-- [Twitter](https://twitter.com/nasazzam)
-- [Email](mailto:nasazzam@example.com)
-
----
-
-## 🎯 Fun Fact
-
-Did you know? I can generate AI-driven captions for images in real-time. Check out my [AI Caption Generator](https://nasazzam.github.io/ai-caption-generator) to see it in action!
