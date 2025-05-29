@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Nas
 
-![NasAzzam Handwriting](NasAzzamHandwritingAnimatedDark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedDark.svg">
+  <img src="NasAzzamHandwritingAnimatedLight.svg" alt="NasAzzam Handwriting" width="400">
+</picture>
+
 
 > A Researcher passionate about AI, multi-modal systems, and real-world vision-language applications.
 
