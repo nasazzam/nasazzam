@@ -4,7 +4,7 @@
 
 > A Researcher passionate about AI, multi-modal systems, and real-world vision-language applications.
 
-🔗 [Website](https://nasazzam.github.io) , [Email](mailto:nasazzam@cau.ac.kr)
+<!-- 🔗 [Website](https://nasazzam.github.io) , [Email](mailto:nasazzam@cau.ac.kr) -->
 
 ---
 
