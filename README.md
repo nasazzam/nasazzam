@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedDark.svg">
-  <img alt="NasAzzam" src="NasAzzamHandwritingAnimatedLight.svg" width="400">
+  <img alt="NasAzzam" src="NasAzzamHandwritingAnimatedDark.svg" width="400">
 </picture>
 
 <p align="center">
