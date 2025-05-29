@@ -2,19 +2,21 @@
 
 ![NasAzzam Handwriting](NasAzzamHandwritingAnimatedDark.svg)
 
-> A research assistant passionate about AI, multi-modal systems, and real-world vision-language applications.
+> A Researcher passionate about AI, multi-modal systems, and real-world vision-language applications.
 
 🔗 [Website](https://nasazzam.github.io) , [Email](mailto:nasazzam@cau.ac.kr)
 
 ---
 
+
 ## 🧠 About Me
 
-I'm a research assistant delving into the realms of artificial intelligence, focusing on:
+- Passionate about **Conversational AI**, building models for natural, context-aware human-machine interactions.  
+- Skilled in **Computer Vision**, enabling machines to interpret and analyze visual information.  
+- Developing **Multi-Modal Systems** that combine language, images, and other data types for richer AI understanding.  
+- Focused on creating practical AI solutions that bring research innovations into real-world applications.
 
-- **Vision-Language Models**: Exploring the synergy between computer vision and natural language processing.
-- **Multi-Modal Systems**: Developing systems that integrate various data types for enhanced understanding.
-- **Real-World Applications**: Translating theoretical AI concepts into practical solutions.
+
 
 ---
 
