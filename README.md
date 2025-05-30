@@ -6,7 +6,7 @@
 </picture>
 
 
-> A researcher passionate about artificial intelligence and its real-world applications..
+> A researcher and avid learner about artificial intelligence and its real-world applications.
 
 <!-- 🔗 [Website](https://nasazzam.github.io) , [Email](mailto:nasazzam@cau.ac.kr) -->
 
