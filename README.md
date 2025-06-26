@@ -17,7 +17,7 @@
 
 - Passionate about **Conversational AI**, building models for natural, context-aware human-machine interactions.  
 - Skilled in **Computer Vision**, enabling machines to interpret and analyze visual information.  
-- Developing **Multi-Modal Systems** that combine language, images, and other data types for richer AI understanding.  
+- Advancing **Multi-Modal AI Systems** that seamlessly integrate language, vision, and diverse data modalities to enable deeper, more comprehensive machine understanding. 
 - Focused on creating practical AI solutions that bring research innovations into real-world applications.
 
 
