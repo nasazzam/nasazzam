@@ -59,15 +59,16 @@
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 
 
-<div style="text-align: center;">
+<p align="center">
   <a href="http://s05.flagcounter.com/more/nBv">
     <img 
-      align="center" src="https://s05.flagcounter.com/count2/nBv/bg_FFFFFF/txt_000000/border_12B9CC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" 
+      src="https://s05.flagcounter.com/count2/nBv/bg_FFFFFF/txt_000000/border_12B9CC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
       alt="Flag Counter" 
-      style="width:350px; height:auto; border:0;"
+      width="350"
     >
   </a>
-</div>
+</p>
+
 
 <p align="center">
     Thanks for Visiting! 😇
