@@ -62,7 +62,7 @@
 <div style="text-align: center;">
   <a href="http://s05.flagcounter.com/more/nBv">
     <img 
-      src="https://s05.flagcounter.com/count2/nBv/bg_FFFFFF/txt_000000/border_12B9CC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" 
+      align="center" src="https://s05.flagcounter.com/count2/nBv/bg_FFFFFF/txt_000000/border_12B9CC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" 
       alt="Flag Counter" 
       style="width:350px; height:auto; border:0;"
     >
