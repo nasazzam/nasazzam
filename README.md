@@ -59,10 +59,6 @@
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 
 
-<p align="center">
-    Thanks for Visiting! 😇
-</p>
-
 <div style="text-align: center;">
   <a href="http://s05.flagcounter.com/more/nBv">
     <img 
@@ -72,3 +68,7 @@
     >
   </a>
 </div>
+
+<p align="center">
+    Thanks for Visiting! 😇
+</p>
