@@ -70,6 +70,6 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
     Thanks for Visiting! 😇
-</p>
+</p> -->
