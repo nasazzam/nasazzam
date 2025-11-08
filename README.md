@@ -12,7 +12,7 @@
 
 ---
 
-
+<!-- 
 ## 🧠 About Me
 
 - Passionate about **Conversational AI**, building models for natural, context-aware human-machine interactions.  
@@ -44,16 +44,16 @@
 
 <!-- ![NasAzzam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasAzzam&show_icons=true&theme=radical) -->
 
-<a href="https://github.com/nasazzam/nasazzam">
+<!-- <a href="https://github.com/nasazzam/nasazzam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasazzam&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/nasazzam/nasazzam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nasazzam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nas's GitHub Stats" />
-</a>
+</a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nasazzam&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=nasazzam&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-[![Nas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nasazzam)](https://git.io/J1Ycx)
+<!-- [![Nas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nasazzam)](https://git.io/J1Ycx) -->
 
 
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
