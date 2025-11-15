@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nas
+# 👋 Hi there, I'm Nasrullah Khan
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedLight.gif">
