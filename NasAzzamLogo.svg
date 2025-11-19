@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <style>
+      @keyframes draw {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+      
+      .signature {
+        fill: none;
+        stroke: #3b82f6;
+        stroke-width: 3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 2000;
+        stroke-dashoffset: 2000;
+        animation: draw 3s ease-in-out forwards;
+        filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.3));
+      }
+      
+      @media (prefers-color-scheme: dark) {
+        .signature {
+          stroke: #60a5fa;
+          filter: drop-shadow(0 0 12px rgba(96, 165, 250, 0.4));
+        }
+      }
+    </style>
+  </defs>
+  
+  <!-- Handwritten "Nas Azzam" signature -->
+  <g class="signature">
+    <!-- N -->
+    <path d="M 50 120 L 50 80 Q 50 70, 60 70 L 80 70 Q 85 70, 88 75 L 110 120 L 110 75" />
+    
+    <!-- a -->
+    <path d="M 130 100 Q 130 90, 140 90 L 150 90 Q 160 90, 160 100 L 160 120 M 160 105 Q 155 95, 145 95" />
+    
+    <!-- s -->
+    <path d="M 185 95 Q 175 90, 175 100 Q 175 105, 185 105 Q 195 105, 195 115 Q 195 120, 185 120" />
+    
+    <!-- Connecting flourish -->
+    <path d="M 205 110 Q 215 100, 225 110" />
+    
+    <!-- A -->
+    <path d="M 250 120 L 270 70 L 290 120 M 260 100 L 280 100" />
+    
+    <!-- z -->
+    <path d="M 310 95 L 330 95 L 310 115 L 330 115" />
+    
+    <!-- z -->
+    <path d="M 345 95 L 365 95 L 345 115 L 365 115" />
+    
+    <!-- a -->
+    <path d="M 380 100 Q 380 90, 390 90 L 400 90 Q 410 90, 410 100 L 410 120 M 410 105 Q 405 95, 395 95" />
+    
+    <!-- m -->
+    <path d="M 430 120 L 430 95 Q 432 90, 438 90 L 442 90 Q 448 90, 450 95 L 450 120 M 450 95 Q 452 90, 458 90 L 462 90 Q 468 90, 470 95 L 470 120" />
+    
+    <!-- Underline flourish -->
+    <path d="M 40 135 Q 150 145, 260 140 Q 370 135, 480 142">
+      <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="3.5s" fill="freeze" begin="0.5s"/>
+    </path>
+  </g>
+</svg>
