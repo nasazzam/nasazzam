@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedLight.gif">
-  <img src="NasAzzamHandwritingAnimatedDark.svg" alt="NasAzzam Handwriting" width="400">
+  <img src="NasAzzamHandwritingAnimatedLight.svg" alt="NasAzzam Handwriting" width="400">
 </picture>
 
 
