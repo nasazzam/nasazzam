@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nas Azzam
+# 👋 Hi there, I'm Nasrullah Khan
 
 <div align="center">
   <img src="NasAzzamLogo.svg" alt="Nas Azzam" width="500">
