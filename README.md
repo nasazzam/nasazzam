@@ -1,14 +1,12 @@
-# 👋 Hi there, I'm Nasrullah Khan
+# 👋 Hi there, I'm Nas Azzam
 
-<picture>
-<<<<<<< HEAD
-  <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedDark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="NasAzzamHandwritingAnimatedLight.gif">
-=======
-  <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedLight.gif">
->>>>>>> 35320e77b538286fbed21e56cc913766f1ea9444
-  <img src="NasAzzamHandwritingAnimatedLight.gif" alt="NasAzzam Handwriting" width="400">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedDark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="NasAzzamHandwritingAnimatedLight.gif">
+    <img src="NasAzzamHandwritingAnimatedLight.gif" alt="NasAzzam Handwriting" width="400">
+  </picture>
+</div>
 
 
 > A researcher and avid learner about artificial intelligence and its real-world applications.
