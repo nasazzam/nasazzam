@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Nas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedLight.gif">
-  <img src="NasAzzamHandwritingAnimatedDark.svg" alt="NasAzzam Handwriting" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedDark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="NasAzzamHandwritingAnimatedLight.gif">
+  <img src="NasAzzamHandwritingAnimatedLight.gif" alt="NasAzzam Handwriting" width="400">
 </picture>
 
 
