@@ -1,8 +1,12 @@
-# 👋 Hi there, I'm Nas
+# 👋 Hi there, I'm Nasrullah Khan
 
 <picture>
+<<<<<<< HEAD
   <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedDark.svg">
   <source media="(prefers-color-scheme: light)" srcset="NasAzzamHandwritingAnimatedLight.gif">
+=======
+  <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedLight.gif">
+>>>>>>> 35320e77b538286fbed21e56cc913766f1ea9444
   <img src="NasAzzamHandwritingAnimatedLight.gif" alt="NasAzzam Handwriting" width="400">
 </picture>
 
