@@ -3,8 +3,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="NasAzzamHandwritingAnimatedLight.gif">
-    <source media="(prefers-color-scheme: light)" srcset="NasAzzamHandwritingAnimatedDark.svg">
-    <img src="NasAzzamHandwritingAnimatedDark.svg" alt="NasAzzam Handwriting" width="400">
+    <source media="(prefers-color-scheme: light)" srcset="NasAzzamHandwritingAnimatedLight.png">
+    <img src="NasAzzamHandwritingAnimatedLight.png" alt="NasAzzam Handwriting" width="400">
   </picture>
 </div>
 
