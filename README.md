@@ -50,8 +50,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nasazzam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nas's GitHub Stats" />
 </a> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nasazzam&no-bg=true)](https://github-profile-trophy.vercel.app/?username=nasazzam&no-bg=true)
 
+[![trophy](https://github-trophies.vercel.app/?username=nasazzam&row=1&column=10)]()
 <!-- [![Nas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nasazzam)](https://git.io/J1Ycx) -->
 
 
