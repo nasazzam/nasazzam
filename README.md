@@ -51,7 +51,7 @@
 </a> -->
 
 
-[![trophy](https://github-trophies.vercel.app/?username=nasazzam&row=1&column=10)]()
+[![trophy](https://github-trophies.vercel.app/?username=nasazzam&theme=juicyfresh&row=1&column=10)]()
 <!-- [![Nas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nasazzam)](https://git.io/J1Ycx) -->
 
 
